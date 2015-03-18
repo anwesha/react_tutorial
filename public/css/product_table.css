@@ -1,0 +1,59 @@
+body {
+    margin:0;
+    color:#fff;
+    font: 13px/1.25 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 1.3rem;
+}
+
+#content {
+    background: #0081E7;
+    width: 60%;
+    margin: 100px auto;
+}
+
+.productTable{
+    width:100%;
+    text-align:left;
+}
+
+.searchBar {
+    padding:20px;
+    margin:0;
+}
+
+.searchBar .search {
+    width:100%;
+    height:40px;
+}
+
+.chkbox {
+    margin:0;
+    padding:5px 0;
+    font-size:13px;
+    font-weight:400;
+}
+
+.productTable thead th {
+    padding: 10px 20px;
+    color: #1F1280;
+}
+
+.productTable td,
+.productTable th {
+    width:50%;
+    margin:0;
+    padding: 5px 20px;
+    box-sizing:border-box;
+}
+
+.productCategoryRow {
+    background: #0066CC;
+}
+
+.productCategoryRow th {
+    padding: 10px 20px;
+}
+
+.outOfStock {
+    color:#BA1B6D;
+}

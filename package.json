@@ -1,0 +1,16 @@
+{
+    "name": "react-tutorial",
+    "version": "0.0.0",
+    "main": "server.js",
+    "description": "react tutorial",
+    "dependencies": {
+        "body-parser": "^1.4.3",
+        "express": "^4.4.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "anwesha",
+    "repository": "https://github.com/anwesha"
+}

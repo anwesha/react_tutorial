@@ -1,0 +1,59 @@
+body {
+    margin:0;
+    color:#ccc;
+    font: 13px/1.25 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 1.3rem;
+}
+
+#content {
+    background: #3F248E;
+    width: 50%;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.commentAuthor {
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+  color: #40CDAC;
+}
+
+.comment p {
+  color: #CCC;
+  font-size: 15px;
+  padding: 0;
+  margin: 5px 0 20px 0;
+  font-weight: 200;
+}
+
+.commentForm {
+  padding: 20px;
+  margin: 0;
+  background-color: #2F1267;
+  text-align: center;
+}
+
+.commentBox input {
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+  width: 150px;
+  padding: 10px;
+}
+
+.postbutton {
+  box-sizing:border-box;
+  background: #A23882;
+  border: 0;
+  color: #FFF;
+  border-radius: 2px;
+}
